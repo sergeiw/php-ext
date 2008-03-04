@@ -1,0 +1,33 @@
+#summary Getting Started with PHP-Ext
+
+= Requirements =
+
+PHP-Ext has a few requirements.  
+
+  * The first requirement its a web server (Apache, IIS) with PHP enabled.  PHP-Ext works for PHP4 and PHP5.  You can also use server packages like XAMPP for ready-to-use web server with PHP support
+   Requirements Reference: 
+    * The Apache HTTP Server Project ([http://httpd.apache.org/download.cgi])
+    * PHP ([http://www.php.net/downloads.php])
+    * XAMPP ([http://www.apachefriends.org/en/xampp.html])
+
+  * The second requiremente is the Ext JS Library which can be downloaded from [http://extjs.com/download].  the samples are built to work with extjs-2.0.2
+
+= Details =
+
+== Full version ==
+The Full version includes the library files, the sample pages and the full api documentation.  It also includes a CHM file for offline reference.
+  # Download the php-ext full version from [http://code.google.com/p/php-ext/downloads/list]
+  # Decompress the php-ext zip file under the document root of the web server
+    This will create the folder php-ext.  This is the installation folder
+  # Decompress the Ext JS zip file under the folder /resources of the installation folder
+  # Go to http://mywebserver/php-ext and enjoy the samples and docs
+  # To use the library in one of your projects, copy the php-ext and the extjs folders to your project path and make your to include the php-ext.php file.  See Library Only for further instructions.
+
+== Library Only ==
+If you want to include the library in one or all of your projects:
+  # Download the php-ext library version from [http://code.google.com/p/php-ext/downloads/list]
+  # Open the zip file and copy the php-ext folder into your project path
+  # Decompress the Ext JS zip file under your project path
+  # Include the "php-ext.php" file in the script.
+  # Include the corresponding namespaces defined in the php-ext.php file
+  # For API documentation download the full version
