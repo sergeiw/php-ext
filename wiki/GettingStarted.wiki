@@ -15,7 +15,7 @@ PHP-Ext has a few requirements.
 = Details =
 
 == Full version ==
-The Full version includes the library files, the sample pages and the full api documentation.  It also includes a CHM file for offline reference.
+The Full version includes the library files, the [http://php-ext.quimera-solutions.com/examples sample] pages and the full [http://php-ext.quimera-solutions.com/docs/api API Documentation].  It also includes a CHM file for offline reference.
   # Download the php-ext full version from [http://code.google.com/p/php-ext/downloads/list]
   # Decompress the php-ext zip file under the document root of the web server
     This will create the folder php-ext.  This is the installation folder
