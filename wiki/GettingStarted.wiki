@@ -1,4 +1,5 @@
 #summary Getting Started with PHP-Ext
+#labels Featured,Phase-Deploy
 
 = Requirements =
 
