@@ -38,3 +38,6 @@ If you want to include the library in one or all of your projects:
   * [http://php-ext.quimera-solutions.com/blog PHP-Ext Blog]
   * [http://php-ext.quimera-solutions.com/docs/api API Documentation]
   * [http://groups.google.com/group/php-ext PHP-Ext Discussion Group]
+
+<wiki:gadget url="http://code.google.com/feeds/p/php-ext/downloads/basic" height="200" border="0" /> 
+<wiki:gadget url="http://code.google.com/feeds/p/php-ext/svnchanges/basic" height="200" border="0" />
