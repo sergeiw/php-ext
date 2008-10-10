@@ -22,13 +22,13 @@ The Full version includes the library files, the [http://php-ext.quimera-solutio
     This will create the folder php-ext.  This is the installation folder
   # Decompress the Ext JS zip file under the folder /resources of the installation folder
   # Go to http://mywebserver/php-ext and enjoy the samples and docs
-  # To use the library in one of your projects, copy the php-ext and the extjs folders to your project path and make your to include the php-ext.php file.  See Library Only for further instructions.
+  # To use the library in one of your projects, copy the php-ext and the extjs folders to your project path and add an to include the PhpExt.php file.  See Library Only for further instructions.
 
 == Library Only ==
 If you want to include the library in one or all of your projects:
   # Download the php-ext library version from [http://code.google.com/p/php-ext/downloads/list]
   # Open the zip file and copy the php-ext folder into your project path
   # Decompress the Ext JS zip file under your project path
-  # Include the "php-ext.php" file in the script.
-  # Include the corresponding namespaces defined in the php-ext.php file
+  # Include the "PhpExt.php" file in the script.
+  # Include the corresponding files for the classes you need to use.
   # For API documentation download the full version
