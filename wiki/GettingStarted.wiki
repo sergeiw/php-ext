@@ -5,7 +5,7 @@
 
 PHP-Ext has a few requirements.  
 
-  * The first requirement its a web server (Apache, IIS) with PHP enabled.  PHP-Ext works for PHP4 and PHP5.  You can also use server packages like XAMPP for ready-to-use web server with PHP support
+  * The first requirement its a web server (Apache, IIS) with PHP enabled.  PHP-Ext works for PHP5.  You can also use server packages like XAMPP for ready-to-use web server with PHP support
    Requirements Reference: 
     * The Apache HTTP Server Project ([http://httpd.apache.org/download.cgi])
     * PHP ([http://www.php.net/downloads.php])
