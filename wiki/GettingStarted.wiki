@@ -13,7 +13,7 @@ PHP-Ext has a few requirements.
 
   * The second requiremente is the Ext JS Library which can be downloaded from [http://extjs.com/download].  the samples are built to work with extjs-2.0.2
 
-= Details =
+= Step by Step =
 
 == Full version ==
 The Full version includes the library files, the [http://php-ext.quimera-solutions.com/examples sample] pages and the full [http://php-ext.quimera-solutions.com/docs/api API Documentation].  It also includes a CHM file for offline reference.
@@ -22,13 +22,19 @@ The Full version includes the library files, the [http://php-ext.quimera-solutio
     This will create the folder php-ext.  This is the installation folder
   # Decompress the Ext JS zip file under the folder /resources of the installation folder
   # Go to http://mywebserver/php-ext and enjoy the samples and docs
-  # To use the library in one of your projects, copy the php-ext and the extjs folders to your project path and add an to include the PhpExt.php file.  See Library Only for further instructions.
+  # To use the library in one of your projects, copy the php-ext and the extjs folders to your project path and add an to include the Ext.php file.  See Library Only for further instructions.
 
 == Library Only ==
 If you want to include the library in one or all of your projects:
   # Download the php-ext library version from [http://code.google.com/p/php-ext/downloads/list]
   # Open the zip file and copy the php-ext folder into your project path
   # Decompress the Ext JS zip file under your project path
-  # Include the "PhpExt.php" file in the script.
+  # Include the "Ext.php" file in the script.
   # Include the corresponding files for the classes you need to use.
   # For API documentation download the full version
+
+= Useful Links =
+  * [http://php-ext.quimera-solutions.com Project Website]
+  * [http://php-ext.quimera-solutions.com/blog PHP-Ext Blog]
+  * [http://php-ext.quimera-solutions.com/docs/api API Documentation]
+  * [http://groups.google.com/group/php-ext PHP-Ext Discussion Group]
